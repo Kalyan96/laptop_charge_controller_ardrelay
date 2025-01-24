@@ -1,0 +1,2 @@
+-find the command to check the battery level and change the code
+-add the root shutdown command 
